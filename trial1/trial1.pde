@@ -23,12 +23,12 @@ void draw() {
  
  //bottom
  //veritcal
- line(400, 500, 400, 630); //bottom sigil, slightly longer for a gently directed gust of wind
+ line(400, 450, 400, 630); //bottom sigil, slightly longer for a gently directed gust of wind
  //horizontal
  line(340, 630, 460, 630);
  //two lines point
- line(380, 520, 400, 500); //left point for arrow
- line(400, 500, 420, 520); //right point for arrow
+ line(380, 480, 400, 450); //left point for arrow
+ line(400, 450, 420, 480); //right point for arrow
  
  //left
  line(170, 400, 250, 400); //horizontal
