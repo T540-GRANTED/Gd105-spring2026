@@ -38,6 +38,8 @@ void draw() {
  triangle(400, 320, 320, 430, 470, 430); //(x1, y1, x2, y2, x3, y3)
 
  save("trial1.png");
+ 
+ //i made something that i was able to finish within the time, unfortunately not as cool or crazy as my initial idea
   
   
   
