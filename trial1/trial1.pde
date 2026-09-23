@@ -37,7 +37,7 @@ void draw() {
  //triangle in the middle for the sigil of convergence
  triangle(400, 320, 320, 430, 470, 430); //(x1, y1, x2, y2, x3, y3)
  
- save("trial
+ save("trial1.png");
   
   
   
